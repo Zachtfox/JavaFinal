@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="screenName">Ability Scores</string>
+    <string name="strength">Strength</string>
+    <string name="dexterity">Dexterity</string>
+    <string name="constitution">Constitution</string>
+    <string name="Intelligence">Intelligence</string>
+    <string name="wisdom">Wisdom</string>
+    <string name="charisma">Charisma</string>
+</resources>
